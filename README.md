@@ -4,6 +4,8 @@
     Ingeniería Electrónica · Universidad Santo Tomás
     <br>
     <b>Didier Posse</b>
+    <br>
+    <em>Primer punto</em>
   </p>
 </div>
 
@@ -16,7 +18,6 @@ En la computación clásica se usan <i>bits</i>, que son combinaciones de unos y
 En cambio, la computación cuántica utiliza los <b>qubits</b>, que también se basan en 0 y 1, pero con la diferencia de que pueden estar en ambos estados al mismo tiempo.  
 Esto genera una nueva lógica con puertas lógicas distintas.
 </p>
-
 <p>
 Los qubits se pueden representar como vectores. Como pueden estar en los dos estados posibles simultáneamente, se representan en un plano cartesiano llamado <b>esfera de Bloch</b>.  
 En ella, el qubit se describe con los estados <i>|0⟩</i> y <i>|1⟩</i>, lo que permite calcular matemáticamente su estado y que no sea aleatorio.  
@@ -120,28 +121,69 @@ Existen diferentes tipos de arquitecturas cuánticas:
 
 <h2>Principios fundamentales de la computación cuántica</h2>
 <ul>
-  <li><b>Superposicion:</b>
-    
+  <li><b>Superposición:</b>
+    Es el principio fundamental en el que el cúbit (o electrón) puede estar en varios estados simultáneamente. 
+    En el caso de la computación cuántica, estos estados pueden ser 0 y 1 a la vez.
   </li>
   <li><b>Entrelazamiento:</b>
-    
+    Es un fenómeno en el cual dos o más partículas están conectadas por sus estados. 
+    Como las partículas están en superposición, al observar o medir una de ellas se obtiene un único estado, 
+    y automáticamente la otra partícula adopta el otro estado posible, sin importar la distancia, ya que siguen conectadas.
   </li>
-  <li><b>Interfaz Cuantica:</b>
-    
+  <li><b>Interferencia cuántica:</b>
+    Es un fenómeno en el cual las amplitudes de probabilidad de una partícula (onda) se combinan, es decir, se suman o restan. 
+    Esto ocurre porque puede haber dos o más estados posibles en la partícula. 
+    La interferencia puede ser constructiva (la probabilidad aumenta) o destructiva (la probabilidad disminuye).
   </li>
-  <li><b>Medicion Probabilistica:</b>
-    
+  <li><b>Medición probabilística:</b>
+    Es la medición cuántica que se realiza para determinar el estado de un sistema cuántico. 
+    Debido a la superposición, no se puede conocer el estado exacto de forma determinista, 
+    por lo que se describe mediante una distribución de probabilidades.
   </li>
-  <li><b>Desafio de Decoherencia:</b>
-    
+  <li><b>Desafío de decoherencia:</b>
+    Este desafío ocurre cuando los sistemas pierden su coherencia cuántica, es decir, dejan de mantener sus propiedades cuánticas. 
+    Esto genera errores en los cálculos y se debe principalmente a la interacción con el entorno, 
+    ya que los sistemas cuánticos requieren condiciones muy rigurosas para funcionar correctamente.
   </li>
-  <li><b>Tipos de Comunicacion:</b>
-    
+  <li><b>Tipos de comunicación cuántica:</b>
+    <ul>
+      <li>Distribución de claves cuánticas (QKD): Se utiliza para crear claves secretas imposibles de copiar sin ser detectadas.</li>
+      <li>Teletransporte cuántico: Permite transmitir el estado cuántico de una partícula a otra distante usando entrelazamiento.</li>
+      <li>Redes cuánticas: Son redes similares a internet, pero usan cúbits en lugar de bits.</li>
+      <li>Criptografía post-cuántica: Algoritmos clásicos diseñados para resistir ataques de computadores cuánticos.</li>
+    </ul>
   </li>
-  <li><b>Compuertas Cuanticas:</b>
-    
+  <li><b>Compuertas cuánticas:</b>
+    <h4>Compuertas single-cúbit</h4>
+    <ul>
+      <li>Hadamard (H): Genera superposición (|0⟩ → (|0⟩+|1⟩)/√2).</li>
+      <li>Pauli-X (X): Equivalente a NOT clásico, cambia |0⟩ ↔ |1⟩.</li>
+      <li>Pauli-Y (Y): Rota el estado en el eje Y de la esfera de Bloch.</li>
+      <li>Pauli-Z (Z): Introduce un cambio de fase (cambia el signo de |1⟩).</li>
+      <li>Fase (S): Rotación de 90° en fase.</li>
+      <li>π/8 (T): rotación de 45° en fase.</li>
+    </ul>
+    <h4>Compuertas multi-cúbits</h4>
+    <ul>
+      <li>CNOT: Invierte el cúbit objetivo si el control es |1⟩.</li>
+      <li>Toffoli (CCNOT): Generalización de CNOT con 2 controles y 1 objetivo.</li>
+      <li>Fredkin (CSWAP): Hace un SWAP entre dos cúbits solo si el control es |1⟩.</li>
+    </ul>
   </li>
 </ul>
+
+<hr>
+
+<div align="center">
+  <p><em>Segundo punto punto</em></p>
+</div>
+
+<hr>
+
+<h2>¿Qué es la computación neuromórfica?</h2>
+<p>
+  
+</p>
 
 <h2>Referencias</h2>
 <ul>
@@ -149,4 +191,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li><a href="https://aws.amazon.com/es/what-is/quantum-computing/">AWS – ¿Qué es la computación cuántica?</a></li>
   <li><a href="https://www.newscientist.com/article/2221707-timeline-a-brief-history-of-quantum-computing-from-1980-to-2100/">New Scientist – Timeline: A brief history of quantum computing from 1980 to 2100</a></li>
   <li><a href="https://www.futurelearn.com/info/blog/what-is-quantum-computing">FutureLearn – What is quantum computing? Essential concepts and uses</a></li>
+  <li><a href="https://www.youtube.com/watch?v=iZ5I_P4XUWQ">YouTube – Introducción a la Computación Cuántica</a></li>
+  <li><a href="https://www.spinquanta.com/news-detail/exploring-quantum-interference-key-concepts-explained">SpinQuanta – Interferencia cuántica: conceptos clave</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Medici%C3%B3n_en_la_mec%C3%A1nica_cu%C3%A1ntica">Wikipedia – Medición en la mecánica cuántica</a></li>
+  <li><a href="https://www.spinquanta.com/news-detail/decoherence-in-quantum-computing-everything-you-need-to-know">SpinQuanta – Decoherencia en la computación cuántica</a></li>
+  <li><a href="https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf">Libro – Nielsen & Chuang: Quantum Computation and Quantum Information</a></li>
+
 </ul>
