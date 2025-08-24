@@ -182,8 +182,17 @@ Existen diferentes tipos de arquitecturas cuánticas:
 
 <h2>¿Qué es la computación neuromórfica?</h2>
 <p>
-  
+  La computacion neuromorfica, se trata de un enfoque el cual intenta imitar a las estructuras neurobiologicas, o sea que intentan asimilar las redes neuronales del cerebro,
+  para que el sistema funcione como un cerebro. A diferencia de otras computaciones, este intenta no solo procesar datos o procesos, si no que tambien se usa para que pueda
+  tener percepcion, control motriz, intgracion multisensorial, etc...
 </p>
+<p>
+  Esta se basa en la biologia, en las ciencias de la compitacion y en la electronica. La idea es disenar sistemas neuronales artificialmente, como puede ser sistemas visuales,
+  auditivos, sensoriales, tambien sistemas de movimiento para poder crear robots mas realistas y no solo tengas esas caracteristicas fisicas similares a la de un humano, si no
+  que tambien sistemas de procesamiento, aprendizaje y evolucion humana.
+</p>
+
+
 
 <h2>Referencias</h2>
 <ul>
@@ -196,5 +205,4 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li><a href="https://es.wikipedia.org/wiki/Medici%C3%B3n_en_la_mec%C3%A1nica_cu%C3%A1ntica">Wikipedia – Medición en la mecánica cuántica</a></li>
   <li><a href="https://www.spinquanta.com/news-detail/decoherence-in-quantum-computing-everything-you-need-to-know">SpinQuanta – Decoherencia en la computación cuántica</a></li>
   <li><a href="https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf">Libro – Nielsen & Chuang: Quantum Computation and Quantum Information</a></li>
-
 </ul>
