@@ -283,18 +283,15 @@ Existen diferentes tipos de arquitecturas cuánticas:
 
 <h2>Arquitectura de los Ordenadores Biológicos</h2>
 <p>
-  La <b>arquitectura de los ordenadores biológicos</b> se basa en aprovechar las propiedades de sistemas vivos para procesar información.  
-  En lugar de transistores y puertas lógicas, emplean <i>moléculas de ADN, células y neuronas cultivadas en laboratorio</i> como bloques fundamentales.  
-  Su funcionamiento descansa en reacciones químicas y en la capacidad de las células para transmitir y modificar señales, creando así un sistema de cómputo 
-  inspirado directamente en los procesos naturales.
+  La <b>arquitectura de los ordenadores biológicos</b> se apoya en moléculas de ADN, proteínas o neuronas vivas en lugar de transistores.  
+  Su lógica se basa en reacciones químicas y en la capacidad de las células para transmitir señales, imitando así procesos naturales de cómputo.
 </p>
 <p>
-  Entre los principales <b>tipos de ordenadores biológicos</b> se encuentran los que utilizan cadenas de ADN para resolver problemas matemáticos complejos, 
-  los que emplean proteínas y moléculas como medio de almacenamiento, y los que integran neuronas vivas capaces de aprender y adaptarse.  
-  Dentro de sus <b>hitos más importantes</b> destacan el ordenador de ADN de <i>Leonard Adleman en 1994</i>, considerado el primero en resolver un problema 
-  computacional usando biología, y experimentos recientes donde redes neuronales vivas han demostrado ser capaces de reconocer patrones y hasta jugar videojuegos simples.  
-  Estos avances reflejan el enorme potencial de esta tecnología para cambiar el futuro del cómputo, aunque todavía se enfrenta a grandes desafíos técnicos y éticos.
+  Entre sus <b>tipos</b> destacan los que usan ADN para cálculos, proteínas para almacenamiento y neuronas vivas para aprendizaje.  
+  Como <b>hitos</b> se resaltan el ordenador de ADN de <i>Adleman en 1994</i> y los experimentos recientes con redes neuronales que logran
+  reconocer patrones e incluso aprender tareas simples.
 </p>
+
 
 <h2>Referencias</h2>
 <ul>
