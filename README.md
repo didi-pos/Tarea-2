@@ -175,24 +175,126 @@ Existen diferentes tipos de arquitecturas cuánticas:
 <hr>
 
 <div align="center">
-  <p><em>Segundo punto punto</em></p>
+  <p><em>Segundo punto</em></p>
 </div>
 
 <hr>
 
-<h2>¿Qué es la computación neuromórfica?</h2>
+<h2>¿Qué es la Computación Neuromórfica?</h2>
 <p>
-  La computacion neuromorfica, se trata de un enfoque el cual intenta imitar a las estructuras neurobiologicas, o sea que intentan asimilar las redes neuronales del cerebro,
-  para que el sistema funcione como un cerebro. A diferencia de otras computaciones, este intenta no solo procesar datos o procesos, si no que tambien se usa para que pueda
-  tener percepcion, control motriz, intgracion multisensorial, etc...
+  La <b>computación neuromórfica</b> es un enfoque que busca imitar la forma en que funciona el cerebro humano.  
+  Mientras que los computadores clásicos procesan información con una lógica secuencial y binaria, los sistemas neuromórficos intentan replicar las <b>redes neuronales biológicas</b>.  
+  Esto permite que no solo procesen datos, sino que también logren <i>percepción, control motriz, integración multisensorial, aprendizaje y adaptación</i>.
 </p>
 <p>
-  Esta se basa en la biologia, en las ciencias de la compitacion y en la electronica. La idea es disenar sistemas neuronales artificialmente, como puede ser sistemas visuales,
-  auditivos, sensoriales, tambien sistemas de movimiento para poder crear robots mas realistas y no solo tengas esas caracteristicas fisicas similares a la de un humano, si no
-  que tambien sistemas de procesamiento, aprendizaje y evolucion humana.
+  Este tipo de computación combina <b>biología, electrónica e informática</b>.  
+  Su meta es diseñar circuitos y arquitecturas que reproduzcan las capacidades del cerebro, como ocurre en sistemas visuales, auditivos o de movimiento, pero llevados a un entorno tecnológico.  
+  Así se busca avanzar en la creación de <b>robots inteligentes</b> que no solo tengan apariencia física, sino también capacidades cognitivas, adaptativas y evolutivas.
 </p>
 
+<hr>
 
+<h2>Arquitectura de la Computación Neuromórfica</h2>
+<p>
+  La arquitectura neuromórfica se inspira en las <b>neuronas y sinapsis</b> del cerebro.  
+  Se basa en <i>spiking neural networks (SNN)</i>, que son modelos de redes neuronales que transmiten información mediante <b>impulsos eléctricos</b> (spikes), al igual que el cerebro.  
+</p>
+
+<ul>
+  <li>
+    <b>Neuronas artificiales:</b> Representan nodos de procesamiento que simulan la función de las neuronas biológicas.
+  </li>
+  <li>
+    <b>Sinapsis electrónicas:</b> Conexiones que transmiten señales entre neuronas y que pueden fortalecerse o debilitarse, imitando la <i>plasticidad sináptica</i>.
+  </li>
+  <li>
+    <b>Procesamiento paralelo:</b> Millones de neuronas artificiales trabajan de forma simultánea, lo que hace más eficiente el reconocimiento de patrones y la adaptación.
+  </li>
+  <li>
+    <b>Bajo consumo energético:</b> Los chips neuromórficos consumen muy poca energía comparados con procesadores clásicos, ya que trabajan por eventos (solo procesan cuando hay un estímulo).
+  </li>
+</ul>
+
+<h4>¿Cómo funciona?</h4>
+<p>
+  El funcionamiento se da por medio de <b>eventos eléctricos discretos</b>.  
+  Cuando un estímulo alcanza cierto umbral en una neurona artificial, esta "dispara" un pulso que viaja a través de la red.  
+  Con la repetición, las conexiones se refuerzan o debilitan, reproduciendo el <b>aprendizaje sináptico</b> del cerebro humano.
+</p>
+
+<h4>Ventajas</h4>
+<ul>
+  <li>Procesamiento paralelo y en tiempo real.</li>
+  <li>Bajo consumo energético.</li>
+  <li>Alta capacidad de aprendizaje y adaptación.</li>
+  <li>Útil para IA, visión artificial, robótica y sistemas autónomos.</li>
+</ul>
+
+<h4>Desventajas</h4>
+<ul>
+  <li>Tecnología aún en desarrollo, con pocos chips comerciales.</li>
+  <li>Difícil de programar con modelos clásicos de software.</li>
+  <li>Limitaciones en la escalabilidad de hardware.</li>
+</ul>
+
+<hr>
+
+<h2>Hardware utilizado en la Computación Neuromórfica</h2>
+<p>
+  Algunos ejemplos de <b>hardware neuromórfico</b> son:
+</p>
+<ul>
+  <li><b>IBM TrueNorth:</b> Primer chip neuromórfico con más de un millón de neuronas simuladas.</li>
+  <li><b>Intel Loihi:</b> Chip diseñado para IA adaptativa, que aprende en tiempo real con muy bajo consumo de energía.</li>
+  <li><b>BrainScaleS:</b> Proyecto europeo que simula redes neuronales a gran escala.</li>
+  <li><b>SpiNNaker (Manchester):</b> Computadora neuromórfica que utiliza millones de procesadores ARM para simular el cerebro.</li>
+</ul>
+
+<hr>
+
+<h2>Tipos de Computación Neuromórfica</h2>
+<ul>
+  <li><b>Digital:</b> Implementada con chips digitales tradicionales que simulan redes neuronales.</li>
+  <li><b>Analógica:</b> Basada en circuitos analógicos que imitan de manera más realista los impulsos eléctricos del cerebro.</li>
+  <li><b>Mixta:</b> Combinación de elementos digitales y analógicos, aprovechando las ventajas de ambos.</li>
+</ul>
+
+<hr>
+
+<div align="center">
+  <p><em>Segundo punto</em></p>
+</div>
+
+<hr>
+
+<h2>¿Qué son los ordenadores biológicos?</h2>
+<p>
+  Un <b>ordenador biológico</b> es similar a los ordenadores neuromórficos, pero con una diferencia fundamental: en lugar de usar <i>componentes electrónicos</i>, 
+  su funcionamiento se basa en <b>elementos biológicos</b> como células, neuronas, ADN y otras moléculas.  Estos sistemas buscan reproducir la <b>estructura y el
+  comportamiento del cerebro humano</b>, logrando un procesamiento más natural y eficiente.
+</p>
+<p>
+  El propósito de esta tecnología es <b>superar las limitaciones de los ordenadores clásicos</b>, ofreciendo mayor capacidad de almacenamiento, menor consumo energético
+  y procesamiento masivo de datos en poco tiempo. Aunque todavía se encuentra en fases iniciales de desarrollo, comparte con los ordenadores neuromórficos la meta de
+  crear sistemas de <i>cómputo más inteligentes, adaptativos y eficientes</i>.
+</p>
+
+<hr>
+
+<h2>Arquitectura de los Ordenadores Biológicos</h2>
+<p>
+  La <b>arquitectura de los ordenadores biológicos</b> se basa en aprovechar las propiedades de sistemas vivos para procesar información.  
+  En lugar de transistores y puertas lógicas, emplean <i>moléculas de ADN, células y neuronas cultivadas en laboratorio</i> como bloques fundamentales.  
+  Su funcionamiento descansa en reacciones químicas y en la capacidad de las células para transmitir y modificar señales, creando así un sistema de cómputo 
+  inspirado directamente en los procesos naturales.
+</p>
+<p>
+  Entre los principales <b>tipos de ordenadores biológicos</b> se encuentran los que utilizan cadenas de ADN para resolver problemas matemáticos complejos, 
+  los que emplean proteínas y moléculas como medio de almacenamiento, y los que integran neuronas vivas capaces de aprender y adaptarse.  
+  Dentro de sus <b>hitos más importantes</b> destacan el ordenador de ADN de <i>Leonard Adleman en 1994</i>, considerado el primero en resolver un problema 
+  computacional usando biología, y experimentos recientes donde redes neuronales vivas han demostrado ser capaces de reconocer patrones y hasta jugar videojuegos simples.  
+  Estos avances reflejan el enorme potencial de esta tecnología para cambiar el futuro del cómputo, aunque todavía se enfrenta a grandes desafíos técnicos y éticos.
+</p>
 
 <h2>Referencias</h2>
 <ul>
@@ -204,5 +306,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li><a href="https://www.spinquanta.com/news-detail/exploring-quantum-interference-key-concepts-explained">SpinQuanta – Interferencia cuántica: conceptos clave</a></li>
   <li><a href="https://es.wikipedia.org/wiki/Medici%C3%B3n_en_la_mec%C3%A1nica_cu%C3%A1ntica">Wikipedia – Medición en la mecánica cuántica</a></li>
   <li><a href="https://www.spinquanta.com/news-detail/decoherence-in-quantum-computing-everything-you-need-to-know">SpinQuanta – Decoherencia en la computación cuántica</a></li>
-  <li><a href="https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf">Libro – Nielsen & Chuang: Quantum Computation and Quantum Information</a></li>
+  <li><a href="https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf">Libro – Nielsen & Chuang: Quantum Computation and Quantum Information</a>
+  <li><a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_neurom%C3%B3rfica">Wikipedia – Computación neuromórfica</a></li>
+  <li><a href="https://www.ibm.com/blogs/research/2018/08/brain-inspired-computing/">IBM Research – Brain-inspired computing</a></li>
+  <li><a href="https://newsroom.intel.com/editorials/loihi-neuromorphic-chip/">Intel – Loihi Neuromorphic Chip</a></li>
+  <li><a href="https://www.sciencedirect.com/topics/computer-science/neuromorphic-computing">ScienceDirect – Neuromorphic Computing</a></li>
+  </li>
 </ul>
