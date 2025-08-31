@@ -420,7 +420,7 @@ Existen diferentes tipos de arquitecturas cuánticas:
 <hr>
 
 <div align="center">
-  <p><em>Cuarto punto</em></p>
+  <p><em>Quinto punto</em></p>
 </div>
 
 <hr>
