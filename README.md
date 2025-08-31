@@ -262,12 +262,12 @@ Existen diferentes tipos de arquitecturas cuánticas:
 <hr>
 
 <div align="center">
-  <p><em>Segundo punto</em></p>
+  <p><em>Tercer punto</em></p>
 </div>
 
 <hr>
 
-<h2>¿Qué son los ordenadores biológicos?</h2>
+<h2>¿Qué son los Ordenadores Biológicos?</h2>
 <p>
   Un <b>ordenador biológico</b> es similar a los ordenadores neuromórficos, pero con una diferencia fundamental: en lugar de usar <i>componentes electrónicos</i>, 
   su funcionamiento se basa en <b>elementos biológicos</b> como células, neuronas, ADN y otras moléculas.  Estos sistemas buscan reproducir la <b>estructura y el
@@ -283,15 +283,161 @@ Existen diferentes tipos de arquitecturas cuánticas:
 
 <h2>Arquitectura de los Ordenadores Biológicos</h2>
 <p>
-  La <b>arquitectura de los ordenadores biológicos</b> se apoya en moléculas de ADN, proteínas o neuronas vivas en lugar de transistores.  
-  Su lógica se basa en reacciones químicas y en la capacidad de las células para transmitir señales, imitando así procesos naturales de cómputo.
-</p>
-<p>
-  Entre sus <b>tipos</b> destacan los que usan ADN para cálculos, proteínas para almacenamiento y neuronas vivas para aprendizaje.  
-  Como <b>hitos</b> se resaltan el ordenador de ADN de <i>Adleman en 1994</i> y los experimentos recientes con redes neuronales que logran
-  reconocer patrones e incluso aprender tareas simples.
+  La <b>arquitectura de los ordenadores biológicos</b> se basa en el uso de <b>moléculas orgánicas</b> como el ADN, el ARN, proteínas 
+  o incluso <b>cultivos neuronales vivos</b> en lugar de los tradicionales transistores de silicio.  
+  Este enfoque busca aprovechar la <b>capacidad natural de las células</b> para almacenar, procesar y transmitir información, 
+  imitando los procesos biológicos que ocurren en organismos vivos.
 </p>
 
+<p>
+  A diferencia de los ordenadores clásicos, cuya lógica se fundamenta en impulsos eléctricos y puertas lógicas binarias, 
+  los <b>ordenadores biológicos</b> emplean <b>reacciones químicas, enlaces moleculares y señales celulares</b> como base de su funcionamiento.  
+  Esto les permite realizar operaciones en paralelo, con un <b>bajo consumo energético</b> y en un <b>espacio extremadamente reducido</b>.
+</p>
+
+<p>
+  Entre sus principales <b>tipos</b> podemos mencionar:
+</p>
+<ul>
+  <li><b>Computación con ADN:</b> utiliza cadenas de ADN para resolver problemas matemáticos complejos mediante emparejamiento de bases y reacciones químicas.</li>
+  <li><b>Computación con proteínas:</b> emplea proteínas y enzimas como unidades de almacenamiento y procesamiento de datos.</li>
+  <li><b>Neurocomputación biológica:</b> trabaja con neuronas vivas en cultivo, que pueden generar conexiones sinápticas y <i>aprender</i> patrones de manera similar a un cerebro.</li>
+</ul>
+
+<p>
+  A lo largo de la historia, destacan algunos <b>hitos importantes</b>:
+</p>
+<ul>
+  <li><b>1994:</b> Leonard Adleman construyó el primer <i>ordenador de ADN</i>, resolviendo un problema matemático de caminos en grafos.</li>
+  <li><b>Década de 2000:</b> avances en biología sintética permitieron diseñar <b>circuitos genéticos</b> capaces de tomar decisiones simples dentro de células vivas.</li>
+  <li><b>Últimos años:</b> experimentos con <b>redes neuronales biológicas</b> lograron que cultivos de neuronas reconozcan patrones e incluso aprendan tareas sencillas, abriendo la puerta a la fusión entre biología y computación.</li>
+</ul>
+
+<hr>
+
+<div align="center">
+  <p><em>Cuarto punto</em></p>
+</div>
+
+<hr>
+
+<h2>Arquitectura de la Computación Heterogénea</h2>
+<p>
+  Esta arquitectura se basa en un sistema de <b>multi-procesadores</b>, lo que significa que integra varios tipos de procesadores como <b>
+  CPU, GPU, NPU o ASIC</b>. Cada uno cuenta con un <i>hardware especializado</i>, capaz de realizar tareas específicas y complementarse con los demás.
+</p>
+<p>
+  Un ejemplo claro está en la <b>computación clásica</b>, donde la <b>CPU</b> se encarga de <i>trabajos robustos y específicos</i>, además de gestionar
+  los datos de software y hardware. Por su parte, la <b>GPU</b> se especializa en el <i>procesamiento masivo en paralelo</i>, permitiendo ejecutar
+  múltiples procesos de forma simultánea y eficiente.
+</p>
+
+<h4>Ventajas</h4>
+<ul>
+  <li><b>Mayor velocidad de procesamiento:</b> Permite ejecutar tareas en menos tiempo gracias a la distribución entre distintos procesadores.</li>
+  <li><b>Mejor rendimiento en procesos exigentes:</b> Cada procesador se especializa en un tipo de tarea, logrando un desempeño más eficiente.</li>
+  <li><b>Eficiencia energética:</b> Optimiza el consumo de energía al asignar la carga de trabajo al procesador más adecuado.</li>
+  <li><b>Adaptabilidad:</b> Se ajusta a diferentes tipos de cargas y necesidades, desde cálculos en paralelo hasta gestión de datos.</li>
+</ul>
+
+<h4>Desventajas</h4>
+<ul>
+  <li><b>Complejidad en la programación:</b> Requiere un desarrollo de software más avanzado para coordinar los diferentes procesadores.</li>
+  <li><b>Componentes especializados:</b> Necesita hardware específico y optimizado para cada tipo de tarea.</li>
+  <li><b>Costos elevados:</b> El desarrollo, la integración y el mantenimiento son más caros que en una arquitectura tradicional.</li>
+</ul>
+
+<hr>
+
+<h2>Historia de la Computación Heterogénea</h2>
+<ol>
+  <li><b>Década de 1990:</b>
+    <ul>
+        <li>Se empieza a usar la idea de juntar <b>CPU con coprocesadores</b> para cálculos científicos y gráficos.</li>
+        <li>Las primeras <b>GPU programables</b> aparecen y se ve que sirven no solo para juegos, sino también para cálculos más complejos.</li>
+    </ul>
+  </li>
+  <li><b>Década de 2000:</b>
+    <ul>
+        <li>Ya se ven sistemas donde <b>CPU y GPU trabajan juntos</b>. NVIDIA saca CUDA en 2006 y abre la puerta a usar GPUs en todo tipo de tareas.</li>
+        <li>Se vuelve común en la <b>computación de alto rendimiento</b> porque acelera bastante los procesos.</li>
+    </ul>
+  </li>
+  <li><b>Década de 2010:</b>
+    <ul>
+        <li>Empiezan a meter <b>ASICs y FPGAs</b> en servidores para tareas muy específicas.</li>
+        <li>Los celulares y dispositivos empiezan a traer <b>chips para IA</b> además del procesador normal.</li>
+    </ul>
+  </li>
+  <li><b>Década de 2020:</b>
+    <ul>
+        <li>La <b>heterogeneidad</b> ya se ve en todas partes: en PCs, móviles y hasta en supercomputadores.</li>
+        <li>Ahora es normal que un mismo equipo tenga procesadores dedicados para <b>IA, gráficos o seguridad</b>.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr>
+
+<div align="center">
+  <p><em>Cuarto punto</em></p>
+</div>
+
+<hr>
+
+<h2>Arquitectura de la Computación de Borde</h2>
+<p>
+  Esta arquitectura se basa en el <b>procesamiento y almacenamiento de datos en el mismo dispositivo</b>. 
+  Esto significa que, en lugar de enviar los datos a un <b>servidor</b> u <b>ordenador central</b> para ser procesados, 
+  el <b>mismo dispositivo que mide esos datos</b> (como <i>sensores</i>, <i>dispositivos IoT</i>, <i>medidores</i>, etc.) 
+  se encarga de <b>almacenar y procesar la información localmente</b>, generando una <b>respuesta inmediata</b> 
+  según los datos recolectados.
+</p>
+
+<h4>Ventajas</h4>
+<ul>
+  <li><b>Baja latencia:</b> Reduce el tiempo de respuesta y la pérdida de datos al procesarlos más cerca del origen.</li>
+  <li><b>Optimización del ancho de banda:</b> Disminuye el tráfico de datos en internet al filtrar y procesar localmente.</li>
+  <li><b>Escalabilidad:</b> El sistema soporta múltiples dispositivos y grandes volúmenes de datos sin colapsar.</li>
+  <li><b>Resiliencia:</b> Permite seguir funcionando incluso con limitaciones o interrupciones en la nube o el servidor central.</li>
+</ul>
+
+<h4>Desventajas</h4>
+<ul>
+  <li><b>Seguridad de los datos:</b> Es más difícil proteger la información al estar distribuida en múltiples dispositivos.</li>
+  <li><b>Costos elevados:</b> Requiere implementar almacenamiento y procesamiento en muchos nodos en lugar de un único servidor.</li>
+  <li><b>Complejidad en la gestión:</b> Coordinar, actualizar y mantener múltiples dispositivos distribuidos puede ser complicado.</li>
+</ul>
+
+<hr>
+
+<h2>Historia de la Computación de Borde</h2>
+<ol>
+  <li><b>Década de 1990:</b>
+    <ul>
+        <li>Se empieza a notar la necesidad de <b>procesar datos cerca de donde se generan</b>, sobre todo en redes industriales.</li>
+    </ul>
+  </li>
+  <li><b>Década de 2000:</b>
+    <ul>
+        <li>Con el crecimiento del <b>IoT</b> se ve que no es tan eficiente mandar todo a un servidor central.</li>
+    </ul>
+  </li>
+  <li><b>Década de 2010:</b>
+    <ul>
+        <li>El concepto de <b>edge computing</b> se hace más conocido gracias a los <b>dispositivos inteligentes</b>.</li>
+        <li>Se aplica en cosas como <b>autos autónomos, ciudades inteligentes y en la salud</b>.</li>
+    </ul>
+  </li>
+  <li><b>Década de 2020:</b>
+    <ul>
+        <li>Se consolida como un complemento de la nube, ahora se habla de <b>cloud + edge</b>.</li>
+        <li>Empresas como Amazon, Microsoft y Google ya ofrecen <b>servicios de edge</b> directamente.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr>
 
 <h2>Referencias</h2>
 <ul>
@@ -301,12 +447,17 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li><a href="https://www.futurelearn.com/info/blog/what-is-quantum-computing">FutureLearn – What is quantum computing? Essential concepts and uses</a></li>
   <li><a href="https://www.youtube.com/watch?v=iZ5I_P4XUWQ">YouTube – Introducción a la Computación Cuántica</a></li>
   <li><a href="https://www.spinquanta.com/news-detail/exploring-quantum-interference-key-concepts-explained">SpinQuanta – Interferencia cuántica: conceptos clave</a></li>
-  <li><a href="https://es.wikipedia.org/wiki/Medici%C3%B3n_en_la_mec%C3%A1nica_cu%C3%A1ntica">Wikipedia – Medición en la mecánica cuántica</a></li>
   <li><a href="https://www.spinquanta.com/news-detail/decoherence-in-quantum-computing-everything-you-need-to-know">SpinQuanta – Decoherencia en la computación cuántica</a></li>
   <li><a href="https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf">Libro – Nielsen & Chuang: Quantum Computation and Quantum Information</a>
   <li><a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_neurom%C3%B3rfica">Wikipedia – Computación neuromórfica</a></li>
   <li><a href="https://www.ibm.com/blogs/research/2018/08/brain-inspired-computing/">IBM Research – Brain-inspired computing</a></li>
   <li><a href="https://newsroom.intel.com/editorials/loihi-neuromorphic-chip/">Intel – Loihi Neuromorphic Chip</a></li>
   <li><a href="https://www.sciencedirect.com/topics/computer-science/neuromorphic-computing">ScienceDirect – Neuromorphic Computing</a></li>
-  </li>
+  <li><a href="https://www.xataka.com/investigacion/computacion-biologica-que-como-nos-esta-ayudando-a-resolver-algunos-grandes-retos-a-que-se-enfrenta-humanidad">Xataka – Computación biológica: cómo nos está      ayudando a resolver retos humanos</a></li>
+  <li><a href="https://polytechnique-insights.com/en/columns/science/biocomputing-the-promise-of-biological-computingbrains/">Polytechnique Insights – Biocomputing: the promise of biological computing brains</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Heterogeneous_computing">Wikipedia – Heterogeneous computing</a></li>
+  <li><a href="https://phoenixnap.mx/glosario/computaci%C3%B3n-heterog%C3%A9nea">phoenixNAP – ¿Qué es la computación heterogénea?</a></li>
+  <li><a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_frontera">Wikipedia – Computación frontera (Edge computing)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=JELW6zQdkJg&ab_channel=AlbertoLopezTECHTIPS">YouTube – Video (Alberto López TECHTIPS)</a></li>
+</ul>
 </ul>
