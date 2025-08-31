@@ -24,6 +24,10 @@ En ella, el qubit se describe con los estados <i>|0⟩</i> y <i>|1⟩</i>, lo qu
 A esto se le llama <b>superposición cuántica</b>, es decir, estar en dos estados simultáneamente.
 </p>
 
+<div align="center">
+  <p><img width=850 src="https://github.com/user-attachments/assets/4c76fd9b-e332-4426-a864-67a4dedd4dc0"/></p>
+</div>
+
 <hr>
 
 <h2>Arquitectura de la Computación Cuántica</h2>
@@ -58,6 +62,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li>Arquitectura fotónica</li>
   <li>Arquitectura topológica</li>
 </ul>
+
+<div align="center">
+  <p><img src="https://github.com/user-attachments/assets/d98e7855-0143-4f64-8ba3-05cd7bca2da4"/></p>
+</div>
 
 <hr>
 
@@ -117,6 +125,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li><b>Costos:</b> El desarrollo y el mantenimiento de estos ordenadores son demasiado elevados, debido a la delicadeza de su funcionamiento y a la alta tecnología que utilizan.</li>
 </ul>
 
+<div align="center">
+  <p><img src="https://github.com/user-attachments/assets/8e170b60-4eed-472d-a182-e009437d2abf"/></p>
+</div>
+
 <hr>
 
 <h2>Principios fundamentales de la computación cuántica</h2>
@@ -156,21 +168,25 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li><b>Compuertas cuánticas:</b>
     <h4>Compuertas single-cúbit</h4>
     <ul>
-      <li>Hadamard (H): Genera superposición (|0⟩ → (|0⟩+|1⟩)/√2).</li>
-      <li>Pauli-X (X): Equivalente a NOT clásico, cambia |0⟩ ↔ |1⟩.</li>
-      <li>Pauli-Y (Y): Rota el estado en el eje Y de la esfera de Bloch.</li>
-      <li>Pauli-Z (Z): Introduce un cambio de fase (cambia el signo de |1⟩).</li>
-      <li>Fase (S): Rotación de 90° en fase.</li>
-      <li>π/8 (T): rotación de 45° en fase.</li>
+      <li><b>Hadamard (H):</b> Genera superposición (|0⟩ → (|0⟩+|1⟩)/√2).</li>
+      <li><b>Pauli-X (X):</b> Equivalente a NOT clásico, cambia |0⟩ ↔ |1⟩.</li>
+      <li><b>Pauli-Y (Y):</b> Rota el estado en el eje Y de la esfera de Bloch.</li>
+      <li><b>Pauli-Z (Z):</b> Introduce un cambio de fase (cambia el signo de |1⟩).</li>
+      <li><b>Fase (S):</b> Rotación de 90° en fase.</li>
+      <li><b>π/8 (T):</b> Rotación de 45° en fase.</li>
     </ul>
     <h4>Compuertas multi-cúbits</h4>
     <ul>
-      <li>CNOT: Invierte el cúbit objetivo si el control es |1⟩.</li>
-      <li>Toffoli (CCNOT): Generalización de CNOT con 2 controles y 1 objetivo.</li>
-      <li>Fredkin (CSWAP): Hace un SWAP entre dos cúbits solo si el control es |1⟩.</li>
+      <li><b>CNOT:</b> Invierte el cúbit objetivo si el control es |1⟩.</li>
+      <li><b>Toffoli (CCNOT):</b> Generalización de CNOT con 2 controles y 1 objetivo.</li>
+      <li><b>Fredkin (CSWAP):</b> Hace un SWAP entre dos cúbits solo si el control es |1⟩.</li>
     </ul>
   </li>
 </ul>
+
+<div align="center">
+  <p><img width=600 src="https://github.com/user-attachments/assets/96b0b88f-358d-4214-9a91-7fa49b9231b4"/></p>
+</div>
 
 <hr>
 
@@ -191,6 +207,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   Su meta es diseñar circuitos y arquitecturas que reproduzcan las capacidades del cerebro, como ocurre en sistemas visuales, auditivos o de movimiento, pero llevados a un entorno tecnológico.  
   Así se busca avanzar en la creación de <b>robots inteligentes</b> que no solo tengan apariencia física, sino también capacidades cognitivas, adaptativas y evolutivas.
 </p>
+
+<div align="center">
+  <p><img width=850 src="https://github.com/user-attachments/assets/87072a45-e593-43c4-a581-31c985a24f2a"/></p>
+</div>
 
 <hr>
 
@@ -237,6 +257,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li>Limitaciones en la escalabilidad de hardware.</li>
 </ul>
 
+<div align="center">
+  <p><img src="https://github.com/user-attachments/assets/a2f1485e-0b4e-4c18-86ef-4571c5c17f82"/></p>
+</div>
+
 <hr>
 
 <h2>Hardware utilizado en la Computación Neuromórfica</h2>
@@ -259,6 +283,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li><b>Mixta:</b> Combinación de elementos digitales y analógicos, aprovechando las ventajas de ambos.</li>
 </ul>
 
+<div align="center">
+  <p><img src="https://github.com/user-attachments/assets/509938d1-0e75-4901-8e92-6092c5f9974a"/></p>
+</div>
+
 <hr>
 
 <div align="center">
@@ -278,6 +306,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   y procesamiento masivo de datos en poco tiempo. Aunque todavía se encuentra en fases iniciales de desarrollo, comparte con los ordenadores neuromórficos la meta de
   crear sistemas de <i>cómputo más inteligentes, adaptativos y eficientes</i>.
 </p>
+
+<div align="center">
+  <p><img width=850 src="https://github.com/user-attachments/assets/636485bd-de59-46e3-aa4c-58aea122db94"/></p>
+</div>
 
 <hr>
 
@@ -305,13 +337,17 @@ Existen diferentes tipos de arquitecturas cuánticas:
 </ul>
 
 <p>
-  A lo largo de la historia, destacan algunos <b>hitos importantes</b>:
+  A lo largo de la historia, destacan algunos hitos importantes:
 </p>
 <ul>
-  <li><b>1994:</b> Leonard Adleman construyó el primer <i>ordenador de ADN</i>, resolviendo un problema matemático de caminos en grafos.</li>
-  <li><b>Década de 2000:</b> avances en biología sintética permitieron diseñar <b>circuitos genéticos</b> capaces de tomar decisiones simples dentro de células vivas.</li>
-  <li><b>Últimos años:</b> experimentos con <b>redes neuronales biológicas</b> lograron que cultivos de neuronas reconozcan patrones e incluso aprendan tareas sencillas, abriendo la puerta a la fusión entre biología y computación.</li>
+  <li><b>1994:</b> Leonard Adleman construyó el primer ordenador de ADN, resolviendo un problema matemático de caminos en grafos.</li>
+  <li><b>Década de 2000:</b> avances en biología sintética permitieron diseñar circuitos genéticos capaces de tomar decisiones simples dentro de células vivas.</li>
+  <li><b>Últimos años:</b> experimentos con redes neuronales biológicas lograron que cultivos de neuronas reconozcan patrones e incluso aprendan tareas sencillas, abriendo la puerta a la fusión entre biología y computación.</li>
 </ul>
+
+<div align="center">
+  <p><img src="https://github.com/user-attachments/assets/fbc2e931-d2cf-48d2-835a-16ff0e40ceb0"/></p>
+</div>
 
 <hr>
 
@@ -346,6 +382,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li><b>Componentes especializados:</b> Necesita hardware específico y optimizado para cada tipo de tarea.</li>
   <li><b>Costos elevados:</b> El desarrollo, la integración y el mantenimiento son más caros que en una arquitectura tradicional.</li>
 </ul>
+
+<div align="center">
+  <p><img width=850 src="https://github.com/user-attachments/assets/42901c86-222f-4988-9467-fa32d5d361ed"/></p>
+</div>
 
 <hr>
 
@@ -409,6 +449,10 @@ Existen diferentes tipos de arquitecturas cuánticas:
   <li><b>Complejidad en la gestión:</b> Coordinar, actualizar y mantener múltiples dispositivos distribuidos puede ser complicado.</li>
 </ul>
 
+<div align="center">
+  <p><img width=850 src="https://github.com/user-attachments/assets/ad1a97ad-f558-432a-adcf-fb3bd80dbd26"/></p>
+</div>
+
 <hr>
 
 <h2>Historia de la Computación de Borde</h2>
@@ -441,23 +485,26 @@ Existen diferentes tipos de arquitecturas cuánticas:
 
 <h2>Referencias</h2>
 <ul>
-  <li><a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica">Wikipedia – Computación cuántica</a></li>
-  <li><a href="https://aws.amazon.com/es/what-is/quantum-computing/">AWS – ¿Qué es la computación cuántica?</a></li>
-  <li><a href="https://www.newscientist.com/article/2221707-timeline-a-brief-history-of-quantum-computing-from-1980-to-2100/">New Scientist – Timeline: A brief history of quantum computing from 1980 to 2100</a></li>
-  <li><a href="https://www.futurelearn.com/info/blog/what-is-quantum-computing">FutureLearn – What is quantum computing? Essential concepts and uses</a></li>
-  <li><a href="https://www.youtube.com/watch?v=iZ5I_P4XUWQ">YouTube – Introducción a la Computación Cuántica</a></li>
-  <li><a href="https://www.spinquanta.com/news-detail/exploring-quantum-interference-key-concepts-explained">SpinQuanta – Interferencia cuántica: conceptos clave</a></li>
-  <li><a href="https://www.spinquanta.com/news-detail/decoherence-in-quantum-computing-everything-you-need-to-know">SpinQuanta – Decoherencia en la computación cuántica</a></li>
-  <li><a href="https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf">Libro – Nielsen & Chuang: Quantum Computation and Quantum Information</a>
-  <li><a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_neurom%C3%B3rfica">Wikipedia – Computación neuromórfica</a></li>
-  <li><a href="https://www.ibm.com/blogs/research/2018/08/brain-inspired-computing/">IBM Research – Brain-inspired computing</a></li>
-  <li><a href="https://newsroom.intel.com/editorials/loihi-neuromorphic-chip/">Intel – Loihi Neuromorphic Chip</a></li>
-  <li><a href="https://www.sciencedirect.com/topics/computer-science/neuromorphic-computing">ScienceDirect – Neuromorphic Computing</a></li>
-  <li><a href="https://www.xataka.com/investigacion/computacion-biologica-que-como-nos-esta-ayudando-a-resolver-algunos-grandes-retos-a-que-se-enfrenta-humanidad">Xataka – Computación biológica: cómo nos está      ayudando a resolver retos humanos</a></li>
-  <li><a href="https://polytechnique-insights.com/en/columns/science/biocomputing-the-promise-of-biological-computingbrains/">Polytechnique Insights – Biocomputing: the promise of biological computing brains</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Heterogeneous_computing">Wikipedia – Heterogeneous computing</a></li>
-  <li><a href="https://phoenixnap.mx/glosario/computaci%C3%B3n-heterog%C3%A9nea">phoenixNAP – ¿Qué es la computación heterogénea?</a></li>
-  <li><a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_frontera">Wikipedia – Computación frontera (Edge computing)</a></li>
-  <li><a href="https://www.youtube.com/watch?v=JELW6zQdkJg&ab_channel=AlbertoLopezTECHTIPS">YouTube – Video (Alberto López TECHTIPS)</a></li>
-</ul>
+  <li><a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_cu%C3%A1ntica" target="_blank">Wikipedia – Computación cuántica</a></li>
+  <li><a href="https://aws.amazon.com/es/what-is/quantum-computing/" target="_blank">AWS – ¿Qué es la computación cuántica?</a></li>
+  <li><a href="https://www.newscientist.com/article/2221707-timeline-a-brief-history-of-quantum-computing-from-1980-to-2100/" target="_blank">New Scientist – Breve historia de la computación cuántica (1980-2100)</a></li>
+  <li><a href="https://www.futurelearn.com/info/blog/what-is-quantum-computing" target="_blank">FutureLearn – Conceptos esenciales de la computación cuántica</a></li>
+  <li><a href="https://www.youtube.com/watch?v=iZ5I_P4XUWQ" target="_blank">YouTube – Introducción a la Computación Cuántica</a></li>
+  <li><a href="https://www.spinquanta.com/news-detail/exploring-quantum-interference-key-concepts-explained" target="_blank">SpinQuanta – Interferencia cuántica: conceptos clave</a></li>
+  <li><a href="https://www.spinquanta.com/news-detail/decoherence-in-quantum-computing-everything-you-need-to-know" target="_blank">SpinQuanta – Decoherencia en computación cuántica</a></li>
+  <li><a href="https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf" target="_blank">Nielsen & Chuang – Quantum Computation and Quantum Information (Libro)</a></li>
+
+  <li><a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_neurom%C3%B3rfica" target="_blank">Wikipedia – Computación neuromórfica</a></li>
+  <li><a href="https://www.ibm.com/blogs/research/2018/08/brain-inspired-computing/" target="_blank">IBM Research – Brain-inspired computing</a></li>
+  <li><a href="https://newsroom.intel.com/editorials/loihi-neuromorphic-chip/" target="_blank">Intel – Loihi Neuromorphic Chip</a></li>
+  <li><a href="https://www.sciencedirect.com/topics/computer-science/neuromorphic-computing" target="_blank">ScienceDirect – Neuromorphic Computing</a></li>
+
+  <li><a href="https://www.xataka.com/investigacion/computacion-biologica-que-como-nos-esta-ayudando-a-resolver-algunos-grandes-retos-a-que-se-enfrenta-humanidad" target="_blank">Xataka – Computación biológica y sus aplicaciones</a></li>
+  <li><a href="https://polytechnique-insights.com/en/columns/science/biocomputing-the-promise-of-biological-computingbrains/" target="_blank">Polytechnique Insights – La promesa de la biocomputación</a></li>
+
+  <li><a href="https://en.wikipedia.org/wiki/Heterogeneous_computing" target="_blank">Wikipedia – Heterogeneous computing</a></li>
+  <li><a href="https://phoenixnap.mx/glosario/computaci%C3%B3n-heterog%C3%A9nea" target="_blank">phoenixNAP – ¿Qué es la computación heterogénea?</a></li>
+  
+  <li><a href="https://es.wikipedia.org/wiki/Computaci%C3%B3n_frontera" target="_blank">Wikipedia – Computación frontera (Edge Computing)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=JELW6zQdkJg&ab_channel=AlbertoLopezTECHTIPS" target="_blank">YouTube – Computación en el borde (Alberto López TECHTIPS)</a></li>
 </ul>
